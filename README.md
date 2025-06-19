@@ -232,3 +232,5 @@ https://marketplace.visualstudio.com/items?itemName=Zazuko.vscode-rdf-sketch
 https://blog.pamelafox.org/2024/12/add-browser-speech-inputoutput-to-your.html
 
 Does OrangeDataMining work with touch?
+
+https://github.com/ivanreese/visual-programming-codex/issues/140#issuecomment-2988379878 as a comment on https://github.com/ivanreese/visual-programming-codex/blob/main/criticisms.md
